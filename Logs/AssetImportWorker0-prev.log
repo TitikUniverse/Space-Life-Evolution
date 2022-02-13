@@ -1,0 +1,2027 @@
+Using pre-set license
+Built from '2020.2/release' branch; Version is '2020.2.2f1 (068178b99f32) revision 426360'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Education; OS build 19041.1348; Version 2004; 64bit' Language: 'ru' Physical Memory: 8062 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.2.2f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/titov/Documents/GitHub/Space Life Evolution
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+51172
+Successfully changed project path to: C:/Users/titov/Documents/GitHub/Space Life Evolution
+C:/Users/titov/Documents/GitHub/Space Life Evolution
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 36.19 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.2f1 (068178b99f32)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/titov/Documents/GitHub/Space Life Evolution/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 630 (ID=0x3e91)
+    Vendor:   
+    VRAM:     4031 MB
+    Driver:   27.20.100.8681
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56384
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.2.2f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001637 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 34.61 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.504 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001000 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 36.39 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.828 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.04 seconds
+Refreshing native plugins compatible for Editor in 0.36 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1844 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 87.5 MB.
+System memory in use after: 87.5 MB.
+
+Unloading 24 unused Assets to reduce memory usage. Loaded Objects now: 2285.
+Total: 1.923800 ms (FindLiveObjects: 0.180300 ms CreateObjectMapping: 0.066300 ms MarkObjects: 1.522200 ms  DeleteObjects: 0.154100 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Simple UI
+  artifactKey: Guid(2df4d1875d4deb448a71a2db85eea449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI using Guid(2df4d1875d4deb448a71a2db85eea449) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016292aa5aa5bb8c89144ee66e1aad6c') in 0.009815 seconds
+  Import took 0.012515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 191.019479 seconds.
+  path: Assets/Simple UI/Button_Exit.prefab
+  artifactKey: Guid(3e4e61510dc084b4a98ea35cc3f1caf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Button_Exit.prefab using Guid(3e4e61510dc084b4a98ea35cc3f1caf0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51e8628e72f7c27808f3389ee651f782') in 0.060633 seconds
+  Import took 0.064162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000265 seconds.
+  path: Assets/Simple UI/Button_Map.prefab
+  artifactKey: Guid(8f2d16ec2b77407418fe860356a8c43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Button_Map.prefab using Guid(8f2d16ec2b77407418fe860356a8c43f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96334da3b22aad1d84cf868e948815e8') in 0.014888 seconds
+  Import took 0.018473 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Simple UI/Text_Amount.prefab
+  artifactKey: Guid(1a6d230f99e6f1344a33363891487b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Text_Amount.prefab using Guid(1a6d230f99e6f1344a33363891487b59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '47150c12ac7479697b73baa89a1c79c1') in 0.013593 seconds
+  Import took 0.016927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/Simple UI/Button_Play.prefab
+  artifactKey: Guid(945b1074849740745a608a331b9cde88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Button_Play.prefab using Guid(945b1074849740745a608a331b9cde88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8cd1231343252a7e66068a9c7cba447') in 0.007826 seconds
+  Import took 0.011626 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000459 seconds.
+  path: Assets/Simple UI/Panel_AchievementWindow.prefab
+  artifactKey: Guid(f7906d2175b4bf243be98e52d7405dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Panel_AchievementWindow.prefab using Guid(f7906d2175b4bf243be98e52d7405dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e77582cf3c6a3ee1b6279af05821705') in 0.021111 seconds
+  Import took 0.026516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Simple UI/Panel_Card.prefab
+  artifactKey: Guid(2379e886ebb53804185055eb47a36352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Panel_Card.prefab using Guid(2379e886ebb53804185055eb47a36352) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '087be6e95783db4f2acd9ae7881ca717') in 0.014869 seconds
+  Import took 0.018450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Simple UI/Text_Panel_Account.prefab
+  artifactKey: Guid(8369b6b5e7ca66a4fa7a59d512324774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Text_Panel_Account.prefab using Guid(8369b6b5e7ca66a4fa7a59d512324774) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17229f0b1979bdc4eed86cbf6deaa3a9') in 0.018424 seconds
+  Import took 0.023146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.680335 seconds.
+  path: Assets/Simple UI/Fonts
+  artifactKey: Guid(1e0fee68ac6e34f3792998dd81384a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Fonts using Guid(1e0fee68ac6e34f3792998dd81384a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b3237f231a80406c969fb4323bd5af') in 0.007909 seconds
+  Import took 0.011670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001056 seconds.
+  path: Assets/Simple UI/Fonts
+  artifactKey: Guid(1e0fee68ac6e34f3792998dd81384a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Fonts using Guid(1e0fee68ac6e34f3792998dd81384a66) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6b3237f231a80406c969fb4323bd5af') in 0.002353 seconds
+  Import took 0.006149 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087827 seconds.
+  path: Assets/Simple UI/Fonts/FredokaOne-Regular.ttf
+  artifactKey: Guid(4506bf6ca285b494ab0993e12703d5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Fonts/FredokaOne-Regular.ttf using Guid(4506bf6ca285b494ab0993e12703d5e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512ad0bd532bb483c46231b830c231c1') in 0.148166 seconds
+  Import took 0.151266 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.686378 seconds.
+  path: Assets/Simple UI/PNG
+  artifactKey: Guid(90c6f6fdcd859445584a923494a49098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG using Guid(90c6f6fdcd859445584a923494a49098) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aadcc4865169606c801d914ec19f6305') in 0.007787 seconds
+  Import took 0.011546 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064533 seconds.
+  path: Assets/Simple UI/PNG/UI_Button_Standard_Green.png
+  artifactKey: Guid(17ef8c2e6bda845ca82eb3e56635a961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Button_Standard_Green.png using Guid(17ef8c2e6bda845ca82eb3e56635a961) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fdc5181c8a17e3d4ba6ddf16b5ac4551') in 0.047009 seconds
+  Import took 0.051593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Simple UI/PNG/UI_Fill_Red.png
+  artifactKey: Guid(18e2ff1d451834543904126f62d5eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Fill_Red.png using Guid(18e2ff1d451834543904126f62d5eb65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0f31b9010f125937118a4289385baf') in 0.019348 seconds
+  Import took 0.023432 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Simple UI/PNG/UI_Tab_Inactive.png
+  artifactKey: Guid(4858e152cf1864da293ed77efa6f4e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Tab_Inactive.png using Guid(4858e152cf1864da293ed77efa6f4e31) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa46c99dedf588f4f9c1919217541e5b') in 0.062234 seconds
+  Import took 0.065231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Simple UI/PNG/UI_Fill_Orange.png
+  artifactKey: Guid(4d07b2098820749219726c7524130fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Fill_Orange.png using Guid(4d07b2098820749219726c7524130fdf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a038784ced5c07c68507ecec4c4a98f4') in 0.059139 seconds
+  Import took 0.061828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Simple UI/PNG/UI_Fill_Sky.png
+  artifactKey: Guid(936056ec3ddb143549903ecd2f90bdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Fill_Sky.png using Guid(936056ec3ddb143549903ecd2f90bdc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cfcde412f5611453375a3f67a72c40b3') in 0.030418 seconds
+  Import took 0.032954 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Simple UI/PNG/UI_Frame_Dark_Transparent.png
+  artifactKey: Guid(11d75de4e00bf4ca096aa248388d6a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Frame_Dark_Transparent.png using Guid(11d75de4e00bf4ca096aa248388d6a76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77e07fdf957e0d43417f03c356a39197') in 0.041827 seconds
+  Import took 0.044762 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simple UI/PNG/UI_Button_Standard_Sky.png
+  artifactKey: Guid(a4f28b6fb67fb4658addf98ee532a7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Button_Standard_Sky.png using Guid(a4f28b6fb67fb4658addf98ee532a7ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57a5fa283074946c0ed6dd59994c9695') in 0.020329 seconds
+  Import took 0.024087 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Simple UI/PNG/UI_Frame_Dark_White.png
+  artifactKey: Guid(f8f919528929444d38fb2c14ee234bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Frame_Dark_White.png using Guid(f8f919528929444d38fb2c14ee234bb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e43f6967db828b21c4d33604336fa88') in 0.037722 seconds
+  Import took 0.040619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000308 seconds.
+  path: Assets/Simple UI/PNG/UI_Panel_Content.png
+  artifactKey: Guid(a0c4441e403ea437ca79f6f9b5b15da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Panel_Content.png using Guid(a0c4441e403ea437ca79f6f9b5b15da8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca09044e4fd13e4b1c2ec1bb2678449c') in 0.022824 seconds
+  Import took 0.025658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Simple UI/PNG/UI_Button_Standard_Orange.png
+  artifactKey: Guid(edf711441da8c428bae528686532e5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Button_Standard_Orange.png using Guid(edf711441da8c428bae528686532e5e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb6b336a0ebb86669e48ebee8144e404') in 0.040832 seconds
+  Import took 0.043887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Simple UI/PNG/UI_Button_Standard_Red.png
+  artifactKey: Guid(01e584fc9ff6d4a969400e68b97befc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Button_Standard_Red.png using Guid(01e584fc9ff6d4a969400e68b97befc4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ff875463d6d7981fdbb521368970d3b') in 0.023696 seconds
+  Import took 0.026783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Simple UI/PNG/UI_Frame_Transparent.png
+  artifactKey: Guid(66982843b793e4fca92ac00569f2a7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Frame_Transparent.png using Guid(66982843b793e4fca92ac00569f2a7ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8513c8cf2b48c9226bb20841c2395d18') in 0.064010 seconds
+  Import took 0.067038 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Simple UI/PNG/UI_Panel_Window.png
+  artifactKey: Guid(8bba60bd272ff4978982a12a88f56b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Panel_Window.png using Guid(8bba60bd272ff4978982a12a88f56b11) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a0375b9e796a4f1981f29a0c5401f1d') in 0.036905 seconds
+  Import took 0.039721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000299 seconds.
+  path: Assets/Simple UI/PNG/UI_Frame_White.png
+  artifactKey: Guid(159709bc538104a329b60b7b07386209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Frame_White.png using Guid(159709bc538104a329b60b7b07386209) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '544dfb120e848c14c5b77570aa7f8bbd') in 0.025822 seconds
+  Import took 0.028565 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000275 seconds.
+  path: Assets/Simple UI/PNG/UI_Tab_Active.png
+  artifactKey: Guid(c6e1c1cabbcb24e8fa0372a11a27535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Tab_Active.png using Guid(c6e1c1cabbcb24e8fa0372a11a27535e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31bdfe412158787f0f9ea6786b3639ad') in 0.030167 seconds
+  Import took 0.033750 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000279 seconds.
+  path: Assets/Simple UI/PNG/UI_Fill_Green.png
+  artifactKey: Guid(52a0b86a66ab743af98c4135d7f3e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/PNG/UI_Fill_Green.png using Guid(52a0b86a66ab743af98c4135d7f3e480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '417f3ec2e985bf1699b97ccb299afc61') in 0.029095 seconds
+  Import took 0.032056 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 14.920368 seconds.
+  path: Assets/Simple UI/Resource Icons
+  artifactKey: Guid(309d811e7a17a4e09aa7c15cb66febfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons using Guid(309d811e7a17a4e09aa7c15cb66febfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f017a21f6256890e6e583150e0939d') in 0.008202 seconds
+  Import took 0.011593 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001011 seconds.
+  path: Assets/Simple UI/Resource Icons
+  artifactKey: Guid(309d811e7a17a4e09aa7c15cb66febfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons using Guid(309d811e7a17a4e09aa7c15cb66febfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19f017a21f6256890e6e583150e0939d') in 0.002498 seconds
+  Import took 0.006158 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046129 seconds.
+  path: Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Coins.png
+  artifactKey: Guid(aebcbaf5d1d2146bf9ff69b1b95334d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Coins.png using Guid(aebcbaf5d1d2146bf9ff69b1b95334d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f85f95fd49b1fecaddca13dbe291a75e') in 0.025857 seconds
+  Import took 0.029843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Tools.png
+  artifactKey: Guid(b6adf1cf14f6d464194562461987edf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Tools.png using Guid(b6adf1cf14f6d464194562461987edf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58d90085d1ba5f9ab708dccc356a2975') in 0.050250 seconds
+  Import took 0.052973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Iron.png
+  artifactKey: Guid(46c993598ebc54c0c9ebd8a0050516fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Iron.png using Guid(46c993598ebc54c0c9ebd8a0050516fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d024d2619793823a4fd297e86fed52d') in 0.066414 seconds
+  Import took 0.068973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Food.png
+  artifactKey: Guid(25b6b275757df4f589d23b542f236cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Food.png using Guid(25b6b275757df4f589d23b542f236cb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac0970f35d2a2bc282f14626d4383bfe') in 0.062438 seconds
+  Import took 0.065134 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000237 seconds.
+  path: Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Gems.png
+  artifactKey: Guid(51cbf6e0aefa3464ba1c716d3be413aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Gems.png using Guid(51cbf6e0aefa3464ba1c716d3be413aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1896b0fa0991320325030a8868d14d8') in 0.063545 seconds
+  Import took 0.066086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Wood.png
+  artifactKey: Guid(350f2e489c1d0458db18e969f67cb28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Resource Icons/UI_Graphic_Resource_Wood.png using Guid(350f2e489c1d0458db18e969f67cb28a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99b102984a60decd7cade468fdd8b4c8') in 0.067158 seconds
+  Import took 0.069813 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 201.977904 seconds.
+  path: Assets/Simple UI/Simple Vector Icons
+  artifactKey: Guid(b5ef3dc27fe5e45908f0663c15615d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons using Guid(b5ef3dc27fe5e45908f0663c15615d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f466948a2e6bb20bd582b6e953f749') in 0.009122 seconds
+  Import took 0.012829 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000492 seconds.
+  path: Assets/Simple UI/Simple Vector Icons
+  artifactKey: Guid(b5ef3dc27fe5e45908f0663c15615d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons using Guid(b5ef3dc27fe5e45908f0663c15615d24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36f466948a2e6bb20bd582b6e953f749') in 0.002548 seconds
+  Import took 0.007059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.020386 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px
+  artifactKey: Guid(ae471714eb2a04f6191e4be78831a6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px using Guid(ae471714eb2a04f6191e4be78831a6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad6ea3e5d23ebdc2b17394a6d2e0d1d') in 0.007844 seconds
+  Import took 0.012130 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001058 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px
+  artifactKey: Guid(ae471714eb2a04f6191e4be78831a6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px using Guid(ae471714eb2a04f6191e4be78831a6b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ad6ea3e5d23ebdc2b17394a6d2e0d1d') in 0.003006 seconds
+  Import took 0.006973 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071304 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/Spaceship.png
+  artifactKey: Guid(2110af155b3fe324f9b8ed13f1f25aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/Spaceship.png using Guid(2110af155b3fe324f9b8ed13f1f25aa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce655c50b87882617241115597529ba8') in 0.043872 seconds
+  Import took 0.047831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Camera.png
+  artifactKey: Guid(bbea513035dbf473c94bef464808f665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Camera.png using Guid(bbea513035dbf473c94bef464808f665) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da6d63961e224058419a56418c2e98d') in 0.017585 seconds
+  Import took 0.020845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpad.png
+  artifactKey: Guid(a270e680cc65c4b71a235bd56811e3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpad.png using Guid(a270e680cc65c4b71a235bd56811e3ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dc72fde17170004ee8f29e23108dfde1') in 0.045844 seconds
+  Import took 0.049335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirUp.png
+  artifactKey: Guid(1fff1f4f12bb84b36983621b24a3d897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirUp.png using Guid(1fff1f4f12bb84b36983621b24a3d897) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3ec954be8d2bfce26198241f5d1abcc4') in 0.038074 seconds
+  Import took 0.043157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxBRound.png
+  artifactKey: Guid(514453681a5c149ea80a3cc34802c9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxBRound.png using Guid(514453681a5c149ea80a3cc34802c9c4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca3873bcef4f0728a1cfa1245fb30aa4') in 0.039519 seconds
+  Import took 0.042445 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000345 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bag1.png
+  artifactKey: Guid(129666415d3ac468d94696522eec6526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bag1.png using Guid(129666415d3ac468d94696522eec6526) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16385d77317d2b69b77dd97041904c60') in 0.045143 seconds
+  Import took 0.048439 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bomb.png
+  artifactKey: Guid(8e488ad39dab0445e9f9c24b9f0be75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bomb.png using Guid(8e488ad39dab0445e9f9c24b9f0be75b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f34a6f0066679a8571cd430073c9a188') in 0.048731 seconds
+  Import took 0.051608 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquareRound.png
+  artifactKey: Guid(0d36b04e0f3204d60ba58106d82a6677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquareRound.png using Guid(0d36b04e0f3204d60ba58106d82a6677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '004c87f5fbae6636e6e4f4a2727f0957') in 0.015913 seconds
+  Import took 0.019592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR3.png
+  artifactKey: Guid(46bc1c3f938c34408a5c1146bc1d90fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR3.png using Guid(46bc1c3f938c34408a5c1146bc1d90fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '596053b4fe3ed2c565a8d5a1e73ebd5e') in 0.059067 seconds
+  Import took 0.062746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirDown.png
+  artifactKey: Guid(b64d7e57c0638468aaa5dbb057bb00e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirDown.png using Guid(b64d7e57c0638468aaa5dbb057bb00e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c0ea36e3eb4c86c112328561b90326c') in 0.025580 seconds
+  Import took 0.028683 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowDown.png
+  artifactKey: Guid(a206b58a619a643bb81972e54d831360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowDown.png using Guid(a206b58a619a643bb81972e54d831360) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '92b4798193206ec6ee54da6ca54fb263') in 0.033396 seconds
+  Import took 0.036700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircleRound.png
+  artifactKey: Guid(0b1c8857294754a87b00ddba848708b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircleRound.png using Guid(0b1c8857294754a87b00ddba848708b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a3ef8c819a8176487aa778dec42ea0') in 0.024409 seconds
+  Import took 0.027654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000298 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxARound.png
+  artifactKey: Guid(3fcbf3c34055d4aeabb89e0082d31369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxARound.png using Guid(3fcbf3c34055d4aeabb89e0082d31369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02baacc0c5596d1547091cab7585e591') in 0.030151 seconds
+  Import took 0.033122 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000273 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOn.png
+  artifactKey: Guid(771bf46a06055496c89e4a4772fb59ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOn.png using Guid(771bf46a06055496c89e4a4772fb59ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '065a0a864c4edb80bd1191fe946f70a7') in 0.034070 seconds
+  Import took 0.037477 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000303 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Award.png
+  artifactKey: Guid(ac0662239160349c48ead929877f71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Award.png using Guid(ac0662239160349c48ead929877f71d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '07ef22d1d84fea4ff03a032d60af5831') in 0.024977 seconds
+  Import took 0.028282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOff.png
+  artifactKey: Guid(f944a7c8cc7d6426793d4bb12873a73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_AlarmOff.png using Guid(f944a7c8cc7d6426793d4bb12873a73f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be9aabda44108b52318a80f8dd157ed0') in 0.031770 seconds
+  Import took 0.034766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000194 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Book.png
+  artifactKey: Guid(114551c53d3154e31bc9184812a8acc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Book.png using Guid(114551c53d3154e31bc9184812a8acc8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9b1d8683fdf1db3fbbf069537af1544') in 0.015722 seconds
+  Import took 0.019131 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL3.png
+  artifactKey: Guid(31c09687ca0bd4827a654fba3b61dd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL3.png using Guid(31c09687ca0bd4827a654fba3b61dd2f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27a51aa637faa348b46c92590cee6516') in 0.026021 seconds
+  Import took 0.030988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR1.png
+  artifactKey: Guid(2dbd193c61b1140ee85ef8131babe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR1.png using Guid(2dbd193c61b1140ee85ef8131babe7d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9dc04bdd7e098aba1e846e9a989d39a1') in 0.025935 seconds
+  Import took 0.033325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxX.png
+  artifactKey: Guid(86a0c7607900244de993dcfb05f8d462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxX.png using Guid(86a0c7607900244de993dcfb05f8d462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cda44ecab3e3636319c248457077a7f1') in 0.015701 seconds
+  Import took 0.019404 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001302 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangleRound.png
+  artifactKey: Guid(ce254bc02e60b496696a349a8295a6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangleRound.png using Guid(ce254bc02e60b496696a349a8295a6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da5ddb823b707f5f1ab846b8a995522e') in 0.033871 seconds
+  Import took 0.040624 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000198 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxY.png
+  artifactKey: Guid(db911fc10f4c343af9f1d1b1968c37b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxY.png using Guid(db911fc10f4c343af9f1d1b1968c37b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f74de5c799963d0ebc5bd7a4d93d9c12') in 0.035304 seconds
+  Import took 0.038316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000186 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirLeft.png
+  artifactKey: Guid(6c56e03a9cef14c469173805b9c14b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirLeft.png using Guid(6c56e03a9cef14c469173805b9c14b4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9c39362f810369063109d67e374c032') in 0.029836 seconds
+  Import took 0.033560 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCrossRound.png
+  artifactKey: Guid(a0ebb20a6dce44c8daf09a32e4bd7ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCrossRound.png using Guid(a0ebb20a6dce44c8daf09a32e4bd7ef4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19a8b6e5db5c80a29ae281cb51a1e42b') in 0.027324 seconds
+  Import took 0.030268 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000163 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR2.png
+  artifactKey: Guid(430148cdf7ad04d65a815c2648c97cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnR2.png using Guid(430148cdf7ad04d65a815c2648c97cce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f104bd1feec4d738fab5e8d798373fc5') in 0.014819 seconds
+  Import took 0.018247 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Aim.png
+  artifactKey: Guid(9f8eeae144e1e464fb2fe20de2d3941f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Aim.png using Guid(9f8eeae144e1e464fb2fe20de2d3941f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1da5d2fe4647fa38c08d7b7779371e2a') in 0.044892 seconds
+  Import took 0.050613 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowUp.png
+  artifactKey: Guid(3094434a7bbf64ceaa9998294597b3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowUp.png using Guid(3094434a7bbf64ceaa9998294597b3cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab012e9b9d132aad19ffe83629349884') in 0.030028 seconds
+  Import took 0.033365 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Attack.png
+  artifactKey: Guid(c2efd48f02c3f4dda825950570186fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Attack.png using Guid(c2efd48f02c3f4dda825950570186fcf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dfa9b7d3ad6243147af3ca1d711faa60') in 0.028324 seconds
+  Import took 0.031603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bookmark.png
+  artifactKey: Guid(bb2fbe780ca4744a2abbe68c46925a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Bookmark.png using Guid(bb2fbe780ca4744a2abbe68c46925a90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c214ca3d9f54e2a1faccbb03ea8eda3f') in 0.024498 seconds
+  Import took 0.028622 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadHorizontal.png
+  artifactKey: Guid(cea5fe64bfc704a388419369708ae062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadHorizontal.png using Guid(cea5fe64bfc704a388419369708ae062) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '382b9cf44fb6349e0634df1036b747d6') in 0.035112 seconds
+  Import took 0.038603 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxXRound.png
+  artifactKey: Guid(aca5053f6a0434f8881d370a7094b82d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxXRound.png using Guid(aca5053f6a0434f8881d370a7094b82d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ac9cae1e89509b1af5c14e5c7982fc7') in 0.032246 seconds
+  Import took 0.035711 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000179 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquare.png
+  artifactKey: Guid(4a60f9dbfdccd422eabc6a34d9043fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsSquare.png using Guid(4a60f9dbfdccd422eabc6a34d9043fb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aaeb2e41867857a0574659037c61b6a6') in 0.014763 seconds
+  Import took 0.019215 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000389 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Archer.png
+  artifactKey: Guid(a45bb033858a8498c966ed62e0400cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Archer.png using Guid(a45bb033858a8498c966ed62e0400cfb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f4c48a2a0e7f7a91ab7d6ae3495f529') in 0.053020 seconds
+  Import took 0.059321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCross.png
+  artifactKey: Guid(41d0f9e20b7f3444ab53263d503df75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCross.png using Guid(41d0f9e20b7f3444ab53263d503df75c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f55b9104512014d267d1f610fcfe98b') in 0.032285 seconds
+  Import took 0.035918 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000182 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadVertical.png
+  artifactKey: Guid(8589f17bb82ca48efbea91600e1dff77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadVertical.png using Guid(8589f17bb82ca48efbea91600e1dff77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '155b2b978e3782855890ff5e343c02bc') in 0.025688 seconds
+  Import took 0.028841 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000310 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirRight.png
+  artifactKey: Guid(8bbda638b228045548e46f7e919f4180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnDpadDirRight.png using Guid(8bbda638b228045548e46f7e919f4180) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f3cb3262923978cbd773288e48ca838') in 0.031517 seconds
+  Import took 0.037952 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000187 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowLeft.png
+  artifactKey: Guid(1beb2b9b13cdf4627a2e692628ae8f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowLeft.png using Guid(1beb2b9b13cdf4627a2e692628ae8f00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f4a44973566c807833fcad2110c93f6') in 0.024061 seconds
+  Import took 0.027288 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000168 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL2.png
+  artifactKey: Guid(aab3b05e57ec54452920863e19e43d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL2.png using Guid(aab3b05e57ec54452920863e19e43d17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '211d38fc2d8416038ee923919478cee0') in 0.029203 seconds
+  Import took 0.036186 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxA.png
+  artifactKey: Guid(c01434ff7cbbe4d89a9f9e75a9b40096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxA.png using Guid(c01434ff7cbbe4d89a9f9e75a9b40096) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c543c02901e3ce647d74737c6e85836b') in 0.016254 seconds
+  Import took 0.025376 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000254 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxB.png
+  artifactKey: Guid(f5d74ebb3f8d541d597d738c079c4b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxB.png using Guid(f5d74ebb3f8d541d597d738c079c4b2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8545387f29bd0f7fe03812544aa7fecf') in 0.020397 seconds
+  Import took 0.023851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000174 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL1.png
+  artifactKey: Guid(9ad69622df82e495fb4264019aebca84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnL1.png using Guid(9ad69622df82e495fb4264019aebca84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa43f9c95131f31b88439f091874d305') in 0.024810 seconds
+  Import took 0.034843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001273 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowRight.png
+  artifactKey: Guid(242705e073d98433bbf94e68fd02957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ArrowRight.png using Guid(242705e073d98433bbf94e68fd02957b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33125ab705ce82e71c4a30593f8a0265') in 0.023655 seconds
+  Import took 0.030931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001109 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircle.png
+  artifactKey: Guid(6413ea90969404597b57598c26b19c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsCircle.png using Guid(6413ea90969404597b57598c26b19c96) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e8947acf2aeabe7085f48e50691d517') in 0.025067 seconds
+  Import took 0.031497 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangle.png
+  artifactKey: Guid(a6f454f6eda86426bb1ff0e142e449d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnPsTriangle.png using Guid(a6f454f6eda86426bb1ff0e142e449d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0b6607cb8f0771238f8650da9378028') in 0.026792 seconds
+  Import took 0.031684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxYRound.png
+  artifactKey: Guid(09a70dce8baca41cba3dbf57c7c0870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_BtnXboxYRound.png using Guid(09a70dce8baca41cba3dbf57c7c0870d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a36db3c558f10f21eb26aeeb3d65743d') in 0.028638 seconds
+  Import took 0.032042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 323.591929 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardClubs.png
+  artifactKey: Guid(496c26acb9b974a1dad49d86c2f504cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardClubs.png using Guid(496c26acb9b974a1dad49d86c2f504cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2283a1c48fecfac4cf6240a8e38ed930') in 0.015766 seconds
+  Import took 0.019831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Coin.png
+  artifactKey: Guid(f1431f3676b9544289e0b4c024d4d809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Coin.png using Guid(f1431f3676b9544289e0b4c024d4d809) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f318aeccf21ccbc1a4aa776a92a8287') in 0.012025 seconds
+  Import took 0.014699 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000269 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardSpades.png
+  artifactKey: Guid(394e2a7c1aedb49a58f9d03d5560def0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardSpades.png using Guid(394e2a7c1aedb49a58f9d03d5560def0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba1fdfd0746b8876f453e7ead1529f5') in 0.011454 seconds
+  Import took 0.013970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Cloud.png
+  artifactKey: Guid(443344a6c2de049528da8996f11a842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Cloud.png using Guid(443344a6c2de049528da8996f11a842c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'daafb20d073f1b7d86485095beccb743') in 0.012492 seconds
+  Import took 0.014980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chat.png
+  artifactKey: Guid(e91cf4aa8cec148a4b6ba86eefc6a553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chat.png using Guid(e91cf4aa8cec148a4b6ba86eefc6a553) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '49bf98bbccc6fd2907be435b76bac0f5') in 0.011925 seconds
+  Import took 0.014442 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardHearts.png
+  artifactKey: Guid(389f478ce02f240c38e504dafb3709c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardHearts.png using Guid(389f478ce02f240c38e504dafb3709c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c2fc10069ba814d84e1a97eb44acef8') in 0.011427 seconds
+  Import took 0.013959 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Close.png
+  artifactKey: Guid(d634d038ef5454d0daa664d6d2de6cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Close.png using Guid(d634d038ef5454d0daa664d6d2de6cda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c99084aae8911032ddc4b412a3864fc7') in 0.012053 seconds
+  Import took 0.014655 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardDiamonds.png
+  artifactKey: Guid(39dca1c9ed1a04f6f92c42352ccbce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CardDiamonds.png using Guid(39dca1c9ed1a04f6f92c42352ccbce3b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6059c62843c10fda387dc56f6e6b8d3') in 0.025799 seconds
+  Import took 0.028854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Checkbox.png
+  artifactKey: Guid(471dddd3448b24a8ebee7497c4833508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Checkbox.png using Guid(471dddd3448b24a8ebee7497c4833508) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'adfca31f5d0672e8d5fa8bb8ce9ef97d') in 0.018077 seconds
+  Import took 0.021769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Compass.png
+  artifactKey: Guid(16a47246152fe48cbb57a8aa706009d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Compass.png using Guid(16a47246152fe48cbb57a8aa706009d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbe234c25e1c49b489f54f6c62810415') in 0.014373 seconds
+  Import took 0.022104 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chainlink.png
+  artifactKey: Guid(b35c1f3fae2ea4a17ac3f8888278e6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Chainlink.png using Guid(b35c1f3fae2ea4a17ac3f8888278e6a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f739cf74c0c11b1cb1008fb36eb1f11') in 0.022685 seconds
+  Import took 0.027302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.476457 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Confirm.png
+  artifactKey: Guid(88924534b9ea345778719b733ed99479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Confirm.png using Guid(88924534b9ea345778719b733ed99479) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e318d1321fa5ba3e2bab741827d01bc') in 0.012120 seconds
+  Import took 0.016248 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyPound.png
+  artifactKey: Guid(6e753e213dd784664939a6a1da81cb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyPound.png using Guid(6e753e213dd784664939a6a1da81cb6c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c1ce8150d58d08413fd188466b371e9c') in 0.012806 seconds
+  Import took 0.015330 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyBitcoin.png
+  artifactKey: Guid(f2049338d20094f73840244571d92f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyBitcoin.png using Guid(f2049338d20094f73840244571d92f0f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bff165b1867d53e3263eec4f3fb3d0ae') in 0.011917 seconds
+  Import took 0.014463 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencDollar.png
+  artifactKey: Guid(27b7baddb07ea4d859e96ca87cf704fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencDollar.png using Guid(27b7baddb07ea4d859e96ca87cf704fb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5627a417b4e2b76770adc23614e692b3') in 0.011774 seconds
+  Import took 0.014335 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Curves.png
+  artifactKey: Guid(e413c39057e504cd4905222e867c3386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Curves.png using Guid(e413c39057e504cd4905222e867c3386) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9ddd43ea73a750845a54cae639374574') in 0.011704 seconds
+  Import took 0.014222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyEuro.png
+  artifactKey: Guid(92bc0b906d95648b48dbf45941e6ca47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyEuro.png using Guid(92bc0b906d95648b48dbf45941e6ca47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f016a9699bca5892d88407bfb5fbd453') in 0.011887 seconds
+  Import took 0.014409 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Defend.png
+  artifactKey: Guid(40c8c3e0dc28b4b528376525f84fa1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Defend.png using Guid(40c8c3e0dc28b4b528376525f84fa1e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '288ed4c2b3518fa587ef96fb4002b853') in 0.011141 seconds
+  Import took 0.013756 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyRuble.png
+  artifactKey: Guid(b960247ed33f94932a571b7d8f190005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyRuble.png using Guid(b960247ed33f94932a571b7d8f190005) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'baf400e1db129219ca5a00809305916b') in 0.016758 seconds
+  Import took 0.020358 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000364 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyWon.png
+  artifactKey: Guid(a5e1cc7e61f094be9bc8bd35cf52a411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyWon.png using Guid(a5e1cc7e61f094be9bc8bd35cf52a411) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7a5bd9739d1fcd480dabe9657b115eda') in 0.021078 seconds
+  Import took 0.027787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000200 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyYen.png
+  artifactKey: Guid(51dc20df08e604f4a89561ea078e5270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_CurrencyYen.png using Guid(51dc20df08e604f4a89561ea078e5270) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '370f394d258746d802a26d43e178bd35') in 0.020524 seconds
+  Import took 0.025014 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000400 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Crown.png
+  artifactKey: Guid(b53f3d7b9eb7b43af97f4fbfa685a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Crown.png using Guid(b53f3d7b9eb7b43af97f4fbfa685a115) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '774ac625f80d088a8acbf9d6f83e120d') in 0.018022 seconds
+  Import took 0.021353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.426003 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Delete.png
+  artifactKey: Guid(00678b7991dee44a89338a6354a42372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Delete.png using Guid(00678b7991dee44a89338a6354a42372) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d1b372725964febe5758de2b1d4e76b') in 0.012806 seconds
+  Import took 0.017935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Energy.png
+  artifactKey: Guid(d868f2043e783499687e4cdb30517b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Energy.png using Guid(d868f2043e783499687e4cdb30517b16) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e38e3482ea2b0c8693bfed75241788a') in 0.011642 seconds
+  Import took 0.014651 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Edit.png
+  artifactKey: Guid(9be9ae48cea07404ba22e29fee9554ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Edit.png using Guid(9be9ae48cea07404ba22e29fee9554ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa2be846c7ebd4d885627f37692c8edd') in 0.012338 seconds
+  Import took 0.014915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithIslam.png
+  artifactKey: Guid(d3b2d6922dd4440718c229905d8659e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithIslam.png using Guid(d3b2d6922dd4440718c229905d8659e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f92200a72d445c09719754cef8ee648') in 0.011912 seconds
+  Import took 0.014417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Exit.png
+  artifactKey: Guid(9c0317cc400ad4528a83748fbe57026b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Exit.png using Guid(9c0317cc400ad4528a83748fbe57026b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7bb2998135eb6e55c87a12865e40a681') in 0.011267 seconds
+  Import took 0.013818 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithTaosim.png
+  artifactKey: Guid(18949019ce95d497aa2a1d9a4de91a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithTaosim.png using Guid(18949019ce95d497aa2a1d9a4de91a09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed6d9bd663d324841610053555bdb301') in 0.011606 seconds
+  Import took 0.014120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DeviceComputer.png
+  artifactKey: Guid(aa017c9ee3f694ebfac54655d82af33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DeviceComputer.png using Guid(aa017c9ee3f694ebfac54655d82af33b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de7391526c63e04c00bc3f6897f54b2') in 0.011468 seconds
+  Import took 0.014124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DevicePhone.png
+  artifactKey: Guid(c4d6560c6b71b48969bb201ddbba658b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_DevicePhone.png using Guid(c4d6560c6b71b48969bb201ddbba658b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e62b281c399d20d5f4ea695f51baa75') in 0.021287 seconds
+  Import took 0.025766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000391 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithJudaism.png
+  artifactKey: Guid(41d622a7558134c918f312dfdfbd6a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithJudaism.png using Guid(41d622a7558134c918f312dfdfbd6a98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d8b823ff485b0cf75a976643b4f0efa') in 0.017406 seconds
+  Import took 0.020862 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000240 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FastForward.png
+  artifactKey: Guid(c1a7f1d38bd88404f847d06740d7fc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FastForward.png using Guid(c1a7f1d38bd88404f847d06740d7fc57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe0ae938c52a44ad3a30e32a0dd5e3d') in 0.020903 seconds
+  Import took 0.024628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithChristianity.png
+  artifactKey: Guid(e283a689275804caa8d9b216cad15ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FaithChristianity.png using Guid(e283a689275804caa8d9b216cad15ddc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f6752e10b8261bc51e1c8fdc16d7b1c') in 0.019987 seconds
+  Import took 0.023238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.320016 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileDocument.png
+  artifactKey: Guid(163d5e5b9102a4e448afc1f7e08d4efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileDocument.png using Guid(163d5e5b9102a4e448afc1f7e08d4efa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a5472a4bde1fdd2f1e898c7aa5ef2b2f') in 0.014021 seconds
+  Import took 0.018935 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Filter.png
+  artifactKey: Guid(99b4a782733e24d45bf60c6f13e7eb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Filter.png using Guid(99b4a782733e24d45bf60c6f13e7eb36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f08aa0224edbec7ba23ce4966599aaa') in 0.011118 seconds
+  Import took 0.013728 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale1.png
+  artifactKey: Guid(6a7fb5bc941e44768ac005493f4a9981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale1.png using Guid(6a7fb5bc941e44768ac005493f4a9981) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80a1e73b633016511785e3e47e5a3c70') in 0.012139 seconds
+  Import took 0.014783 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fill.png
+  artifactKey: Guid(47378b401f2244ca682fc9c4874a7491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fill.png using Guid(47378b401f2244ca682fc9c4874a7491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d88b80a385991ee7f360ca88307d9cc') in 0.011430 seconds
+  Import took 0.014067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileFolder.png
+  artifactKey: Guid(4054f9945059b46e988e8b853c338b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FileFolder.png using Guid(4054f9945059b46e988e8b853c338b37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fac1e65529367b0243a1531554e1a570') in 0.011355 seconds
+  Import took 0.013894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fire.png
+  artifactKey: Guid(2957cac7ce6a34edab70108e9e8f39f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Fire.png using Guid(2957cac7ce6a34edab70108e9e8f39f2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c69b6dfeb774c9beefa478cc07023466') in 0.010997 seconds
+  Import took 0.013602 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FilmPlay.png
+  artifactKey: Guid(6ed1021ce31204b00bf397803a666c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FilmPlay.png using Guid(6ed1021ce31204b00bf397803a666c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b65e04f8ef96a2702fcd7ef337e82fac') in 0.011808 seconds
+  Import took 0.014337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenExit.png
+  artifactKey: Guid(40326d99531e547368b3959b040f548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenExit.png using Guid(40326d99531e547368b3959b040f548d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a63b2c748e4eb2a58b62fe799ac3fcda') in 0.020000 seconds
+  Import took 0.025633 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000430 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Film.png
+  artifactKey: Guid(c78d95d19711b4468a6f3ce582536116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Film.png using Guid(c78d95d19711b4468a6f3ce582536116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c06578dfb4445bcbd076a008f20f48b') in 0.017238 seconds
+  Import took 0.021737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Flag.png
+  artifactKey: Guid(04321403867bb44298eb35f81f929146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Flag.png using Guid(04321403867bb44298eb35f81f929146) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b31dbcdaf15cffb3e4d52866bc57c0b9') in 0.019811 seconds
+  Import took 0.023018 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenEnter.png
+  artifactKey: Guid(7eae0dc6ee63240e392973dd6d02b8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_FullscreenEnter.png using Guid(7eae0dc6ee63240e392973dd6d02b8d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cbf3d8e6782f45f4ea4e221f04803972') in 0.020896 seconds
+  Import took 0.023987 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.151769 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale2.png
+  artifactKey: Guid(6d7cd2d71d93940f8a24717682b0923f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderFemale2.png using Guid(6d7cd2d71d93940f8a24717682b0923f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1daef0bbaa085acaa87a9bb6b63a6d7a') in 0.014476 seconds
+  Import took 0.019452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Heart.png
+  artifactKey: Guid(7d0300708d0334da0ab356e0b81be9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Heart.png using Guid(7d0300708d0334da0ab356e0b81be9c5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22cff8223936afda2e50ffe906ccd8fb') in 0.012125 seconds
+  Import took 0.014764 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale1.png
+  artifactKey: Guid(7854c5ee07b074e4a89f23651781930a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale1.png using Guid(7854c5ee07b074e4a89f23651781930a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458147b7bf445309ba2604228ca4380c') in 0.011587 seconds
+  Import took 0.014146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_HeartEmpty.png
+  artifactKey: Guid(147e693f646d847a6aab3cfcd37a75b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_HeartEmpty.png using Guid(147e693f646d847a6aab3cfcd37a75b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37fa477c3a6075feabf539ca318de80a') in 0.011994 seconds
+  Import took 0.014522 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gift.png
+  artifactKey: Guid(06ccad68a51e7475aa47fa790359f6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Gift.png using Guid(06ccad68a51e7475aa47fa790359f6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f513ede60c319a1ffebb8e89889c962d') in 0.011613 seconds
+  Import took 0.014102 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hammer.png
+  artifactKey: Guid(b7253613cfa2a4c2d91991fe707baa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Hammer.png using Guid(b7253613cfa2a4c2d91991fe707baa47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9375ba881d6f5b438631f1cd72e906d2') in 0.011465 seconds
+  Import took 0.013971 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Globe.png
+  artifactKey: Guid(92d6e46e01ee949f1a46fc19472bcef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Globe.png using Guid(92d6e46e01ee949f1a46fc19472bcef7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4878e3acb8f8e47fe09e54572b132502') in 0.011189 seconds
+  Import took 0.013838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000229 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Home.png
+  artifactKey: Guid(ff12e1d838ca44f0d8573b68005c4816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Home.png using Guid(ff12e1d838ca44f0d8573b68005c4816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b78cce2c505c7565aa462254d615683a') in 0.016124 seconds
+  Import took 0.020387 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000433 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Infinite.png
+  artifactKey: Guid(b01851fbf075740e18cbd6784af5bcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Infinite.png using Guid(b01851fbf075740e18cbd6784af5bcc3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2135c29cc1154dc0f2debd76efd6f3d') in 0.020798 seconds
+  Import took 0.026108 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000065 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale2.png
+  artifactKey: Guid(b946f393c5dc74f90adc5fec8c422dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_GenderMale2.png using Guid(b946f393c5dc74f90adc5fec8c422dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80cff71889df466a54c62d83f06611a1') in 0.031329 seconds
+  Import took 0.036597 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001365 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Info.png
+  artifactKey: Guid(d16e5c50389db4ed9b1a3c31c5ff2fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Info.png using Guid(d16e5c50389db4ed9b1a3c31c5ff2fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1264193c1e937a5abc59d4e5fb0aba1a') in 0.025213 seconds
+  Import took 0.031352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005423 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Info.png
+  artifactKey: Guid(d16e5c50389db4ed9b1a3c31c5ff2fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Info.png using Guid(d16e5c50389db4ed9b1a3c31c5ff2fed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1264193c1e937a5abc59d4e5fb0aba1a') in 0.009807 seconds
+  Import took 0.013923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.436800 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputController.png
+  artifactKey: Guid(8832da9ca731b4490aabbe2848f02a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputController.png using Guid(8832da9ca731b4490aabbe2848f02a0c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c3c1cc55e3ad30598e9ad74790b6563') in 0.012545 seconds
+  Import took 0.016898 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBoots.png
+  artifactKey: Guid(ed9637a0af1604597ab7999fd425b1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBoots.png using Guid(ed9637a0af1604597ab7999fd425b1ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '962b91a6ecae7b01fa7724bc06eda6ab') in 0.011911 seconds
+  Import took 0.014555 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPants.png
+  artifactKey: Guid(511ce488dc0504d599904b66842443e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPants.png using Guid(511ce488dc0504d599904b66842443e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be0923dc56cc6792ae1dcc45688c057c') in 0.012368 seconds
+  Import took 0.014854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBelt.png
+  artifactKey: Guid(1677cb219d55e44c49f41594977f7a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvBelt.png using Guid(1677cb219d55e44c49f41594977f7a69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '915c1798d40c2d73146d01792c09c702') in 0.011513 seconds
+  Import took 0.014030 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvCloak.png
+  artifactKey: Guid(278d18f832c934f9583b82edf8649a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvCloak.png using Guid(278d18f832c934f9583b82edf8649a9e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7693b9371e0c50bc54fadb5146d3d617') in 0.013192 seconds
+  Import took 0.015700 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvHelmet.png
+  artifactKey: Guid(8abb14d97fc2f4c999f5291f611d5893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvHelmet.png using Guid(8abb14d97fc2f4c999f5291f611d5893) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '693722f63abfab1394131d6f6d302791') in 0.011601 seconds
+  Import took 0.014079 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvGloves.png
+  artifactKey: Guid(e25d65ac4e22b477daba2a878670c45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvGloves.png using Guid(e25d65ac4e22b477daba2a878670c45e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '928f71d4d23c75248eabb940998ebd34') in 0.012394 seconds
+  Import took 0.014961 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000295 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Invisible.png
+  artifactKey: Guid(34da03ad02a0a40b79dff03d3660be7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Invisible.png using Guid(34da03ad02a0a40b79dff03d3660be7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56b2afec2c0b19a52ff16ea47e045981') in 0.017338 seconds
+  Import took 0.022541 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputKeyboard.png
+  artifactKey: Guid(7f9619ea3fe994e228f57b0861f47fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputKeyboard.png using Guid(7f9619ea3fe994e228f57b0861f47fa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b5fe595ddb6baabe4320574b4c394b7') in 0.019138 seconds
+  Import took 0.023878 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvChest.png
+  artifactKey: Guid(0ddb6a63b571e45aaa2a79a02320b48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvChest.png using Guid(0ddb6a63b571e45aaa2a79a02320b48a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8e5a6487f5ddfb5826b14fb707113b1') in 0.026490 seconds
+  Import took 0.030408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputJoystick.png
+  artifactKey: Guid(8900b82c5f1424dfdad2998da107d486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InputJoystick.png using Guid(8900b82c5f1424dfdad2998da107d486) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f546100fc640030366010a1408f41dfb') in 0.023593 seconds
+  Import took 0.030594 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213563 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPotion.png
+  artifactKey: Guid(a6787aa1279224c8fb106dee96f11c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvPotion.png using Guid(a6787aa1279224c8fb106dee96f11c28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '50990795431bb7c3959742c78000f151') in 0.013338 seconds
+  Import took 0.018046 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Location.png
+  artifactKey: Guid(348c0058fec5040f293b6731a46e86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Location.png using Guid(348c0058fec5040f293b6731a46e86a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b945d25bcd0c1eb99101d432ded8c736') in 0.012319 seconds
+  Import took 0.014919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvRing.png
+  artifactKey: Guid(2720d660655974d97a46e6eab23fbc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_InvRing.png using Guid(2720d660655974d97a46e6eab23fbc78) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efff140d5533022527199e5d0d521907') in 0.011435 seconds
+  Import took 0.014099 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000211 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Like.png
+  artifactKey: Guid(444bc4695230a4b8c9d121a234316ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Like.png using Guid(444bc4695230a4b8c9d121a234316ee1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68d49da7b1f074f4bfb0b353813db638') in 0.013638 seconds
+  Import took 0.016211 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000255 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_List.png
+  artifactKey: Guid(18ff5b5bf82bf42e6a2a4e5cf19d458e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_List.png using Guid(18ff5b5bf82bf42e6a2a4e5cf19d458e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6da44dfcc73dfb43f0dc27c90a909e46') in 0.011169 seconds
+  Import took 0.013661 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Loop.png
+  artifactKey: Guid(b6b1f04bce11e4cdb8edc1cf70708bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Loop.png using Guid(b6b1f04bce11e4cdb8edc1cf70708bf9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '432d9469ae5a2a213b70792674190ceb') in 0.013187 seconds
+  Import took 0.015772 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Key.png
+  artifactKey: Guid(b3015ee53a01144b982f10b99cc99c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Key.png using Guid(b3015ee53a01144b982f10b99cc99c4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91725238db0f6ff6e6553ca817e9f319') in 0.011636 seconds
+  Import took 0.014296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockUnlocked.png
+  artifactKey: Guid(7b7b34ac073474b02b8969c15d49d01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockUnlocked.png using Guid(7b7b34ac073474b02b8969c15d49d01d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f039ff1821727e908c13614cded7b1b1') in 0.023273 seconds
+  Import took 0.026889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockLocked.png
+  artifactKey: Guid(b11885c99927248a3b672b99a6e838c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_LockLocked.png using Guid(b11885c99927248a3b672b99a6e838c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ad1c4272ff6f27e41f548c2effd70a') in 0.017913 seconds
+  Import took 0.022074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000523 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Leaf.png
+  artifactKey: Guid(2f848c5befa8f4a90aeb87349ef8d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Leaf.png using Guid(2f848c5befa8f4a90aeb87349ef8d8fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '290679bf4d06ec8d51ea414b2734c95c') in 0.017368 seconds
+  Import took 0.023325 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mail.png
+  artifactKey: Guid(64883e218fde34d4ba187da517c43a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mail.png using Guid(64883e218fde34d4ba187da517c43a0e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '37b43a9f1d28e7ffc146ba9f17fde4aa') in 0.022490 seconds
+  Import took 0.026704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.502712 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Map.png
+  artifactKey: Guid(89f93152faed24625907e3439c323517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Map.png using Guid(89f93152faed24625907e3439c323517) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4893c7ef7a349b6fe8be0a81c4e5c53a') in 0.025468 seconds
+  Import took 0.030163 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000330 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mirror.png
+  artifactKey: Guid(47c122af1b2224d418f5ee13316536c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Mirror.png using Guid(47c122af1b2224d418f5ee13316536c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb3d079b6435f4fc3413d66993bd1c33') in 0.011468 seconds
+  Import took 0.014074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Menu.png
+  artifactKey: Guid(4628c53c55aeb4fa69f30d6526815ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Menu.png using Guid(4628c53c55aeb4fa69f30d6526815ea5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8b0353f1db3a610f52a28d393e313b7') in 0.011645 seconds
+  Import took 0.014148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000244 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOn.png
+  artifactKey: Guid(0a221a01ffb194072b4c1457b5435e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOn.png using Guid(0a221a01ffb194072b4c1457b5435e5b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b36509f9a08be85f02061ff5b878f8b5') in 0.011729 seconds
+  Import took 0.014222 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOn.png
+  artifactKey: Guid(5adfb0b2988b84ec4ae62cd5d2d0b229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOn.png using Guid(5adfb0b2988b84ec4ae62cd5d2d0b229) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '010c146a4f4ca71801859485be18fa91') in 0.012643 seconds
+  Import took 0.015191 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MultiPlayer.png
+  artifactKey: Guid(132298f71584b4b71a58725dd7d69a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MultiPlayer.png using Guid(132298f71584b4b71a58725dd7d69a9a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '06794e4e198704b8af653ccbb30ad8de') in 0.011613 seconds
+  Import took 0.014230 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOff.png
+  artifactKey: Guid(6c65a8e92c7ce453cac224546ce0e07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MicOff.png using Guid(6c65a8e92c7ce453cac224546ce0e07a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb5ea3df642d268d64a2ec2e1a3c564a') in 0.019322 seconds
+  Import took 0.023452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000607 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Medal.png
+  artifactKey: Guid(bcf8d106e826f4eb9abe624f1f80e5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Medal.png using Guid(bcf8d106e826f4eb9abe624f1f80e5f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8ec8506e0406ee3f07689ac1306b727') in 0.018539 seconds
+  Import took 0.023557 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000488 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Merge.png
+  artifactKey: Guid(f48619531958b42c6ba520ae88fb8333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Merge.png using Guid(f48619531958b42c6ba520ae88fb8333) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '772b740a1ad8eec84eaab968a62b632e') in 0.019922 seconds
+  Import took 0.023297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOff.png
+  artifactKey: Guid(29c9b3de4143e450988e67ee03268bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_MusicOff.png using Guid(29c9b3de4143e450988e67ee03268bbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '98eb78af6782ca862ac4dd8641b21f85') in 0.028577 seconds
+  Import took 0.031871 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Moon.png
+  artifactKey: Guid(967e539568d304550b66f56514b77677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Moon.png using Guid(967e539568d304550b66f56514b77677) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7276d6956bf1fae7683fcd881024559') in 0.022187 seconds
+  Import took 0.025606 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.087695 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_NewPlayer.png
+  artifactKey: Guid(43b12a9fd2753417d810ea2952bb5c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_NewPlayer.png using Guid(43b12a9fd2753417d810ea2952bb5c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6413a6d22e6a8c190107c1291217a180') in 0.012561 seconds
+  Import took 0.016951 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_PlayBackwards.png
+  artifactKey: Guid(3ae27d1e1a7cf4bcfb20e085b4f4b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_PlayBackwards.png using Guid(3ae27d1e1a7cf4bcfb20e085b4f4b3a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c3f846079722de8957d0241a83835d7e') in 0.012046 seconds
+  Import took 0.014589 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Photo.png
+  artifactKey: Guid(e460c533a82244d32bfe07ffcc1cb983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Photo.png using Guid(e460c533a82244d32bfe07ffcc1cb983) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10cb3a5ba131c0d5b34a54a3fe95e920') in 0.011426 seconds
+  Import took 0.014054 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Percentage.png
+  artifactKey: Guid(07d48dbff6c1644e99c6a63cac68118f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Percentage.png using Guid(07d48dbff6c1644e99c6a63cac68118f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8cef0a39a77fb7c641d9494ff9532727') in 0.011941 seconds
+  Import took 0.014542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Refresh.png
+  artifactKey: Guid(080363c49d03b4e90a5ad5397d635e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Refresh.png using Guid(080363c49d03b4e90a5ad5397d635e57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4d7b86aff1d79eac0328d5c7ae1bf7a2') in 0.011294 seconds
+  Import took 0.013927 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_OnOff.png
+  artifactKey: Guid(e59038821f755425b80a80605919d6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_OnOff.png using Guid(e59038821f755425b80a80605919d6e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '501854cab82279d33e5981d860258ba9') in 0.011683 seconds
+  Import took 0.014270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Play.png
+  artifactKey: Guid(1c26aa839c12c474dbe3a4523faaf2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Play.png using Guid(1c26aa839c12c474dbe3a4523faaf2da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3c3e2852ec39c93a4a965c1edacfa53') in 0.011015 seconds
+  Import took 0.013640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pause.png
+  artifactKey: Guid(0adda4eeb38b84d18ac75a595c851ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Pause.png using Guid(0adda4eeb38b84d18ac75a595c851ba1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2bf01202d9f1b3822f860f805be49c17') in 0.021147 seconds
+  Import took 0.025731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000241 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Plus.png
+  artifactKey: Guid(c97375c23bca64d21b813603aa727166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Plus.png using Guid(c97375c23bca64d21b813603aa727166) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27b776c74ec7ffe819dc4ba66ff6cfd5') in 0.022269 seconds
+  Import took 0.026865 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Question.png
+  artifactKey: Guid(a02c0074ca471416d9a79fd5a0cc2b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Question.png using Guid(a02c0074ca471416d9a79fd5a0cc2b02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c82bb5d73caba53bddc3a0519042804c') in 0.020394 seconds
+  Import took 0.024345 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Reload.png
+  artifactKey: Guid(ed73fa6da658b4a0186a12ad1f12da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Reload.png using Guid(ed73fa6da658b4a0186a12ad1f12da43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5d057329518bd87c736b188b2fa35e') in 0.025594 seconds
+  Import took 0.028907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108486 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Results.png
+  artifactKey: Guid(194b0f580382441cb9c13d6f2c655dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Results.png using Guid(194b0f580382441cb9c13d6f2c655dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e8f469fd5b1895b3fca2d6877ff032ee') in 0.013298 seconds
+  Import took 0.017856 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sale.png
+  artifactKey: Guid(3e5a8768cc0ba406d9e7c4b4f372407b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sale.png using Guid(3e5a8768cc0ba406d9e7c4b4f372407b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '58f4a0170ce4b9fb07a57e4f4eb5cce1') in 0.011937 seconds
+  Import took 0.014506 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save2.png
+  artifactKey: Guid(198ed74cf9455487eac5895a4cbaba42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save2.png using Guid(198ed74cf9455487eac5895a4cbaba42) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78770e7a0b9530ba975e108522155cdd') in 0.013369 seconds
+  Import took 0.015908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateLeft.png
+  artifactKey: Guid(03be5701520034b34a0f0a5e2aa079fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateLeft.png using Guid(03be5701520034b34a0f0a5e2aa079fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1c028740924afe677dfbaf6392b422b') in 0.014137 seconds
+  Import took 0.016681 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000313 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sandclock.png
+  artifactKey: Guid(1276653a4c2d448b3b558e3943c3970f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sandclock.png using Guid(1276653a4c2d448b3b558e3943c3970f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ec2a0d2e297bd597e7ae33cff47468ce') in 0.012477 seconds
+  Import took 0.015125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000257 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rewind.png
+  artifactKey: Guid(207f46600d3c640dabadcef7c9cf7290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Rewind.png using Guid(207f46600d3c640dabadcef7c9cf7290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bc764f8c6c55cc2540a42ed33d87d359') in 0.013320 seconds
+  Import took 0.016460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000272 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateRight.png
+  artifactKey: Guid(634c385f9f0f343bfb6020168a1dddda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_RotateRight.png using Guid(634c385f9f0f343bfb6020168a1dddda) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be07b1aaebee4ebe9bc8435aa4bd2b51') in 0.016463 seconds
+  Import took 0.019895 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000286 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save1.png
+  artifactKey: Guid(fb278a98590f648e99b37ae8a043859b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Save1.png using Guid(fb278a98590f648e99b37ae8a043859b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c4a51e5864560148a615541cf2e4f69') in 0.030370 seconds
+  Import took 0.033926 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Search.png
+  artifactKey: Guid(e6a79480b593b4ee1b3098d62af92909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Search.png using Guid(e6a79480b593b4ee1b3098d62af92909) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '96d22f038dc8339fa19dec4a325e6555') in 0.023859 seconds
+  Import took 0.028107 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000201 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Return.png
+  artifactKey: Guid(3601987d52be64dc0ba65e66b4bf67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Return.png using Guid(3601987d52be64dc0ba65e66b4bf67b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ead19cac95293a644f74d58db49400af') in 0.017235 seconds
+  Import took 0.021188 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Select.png
+  artifactKey: Guid(003044f3d2b2242df863f39651d72ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Select.png using Guid(003044f3d2b2242df863f39651d72ba9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d68fbc04f8b444aa0687a540c188f8') in 0.022513 seconds
+  Import took 0.026012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.500804 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Settings.png
+  artifactKey: Guid(be652a86bfecb40f8a9991e2ac107307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Settings.png using Guid(be652a86bfecb40f8a9991e2ac107307) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8b3778b5db3bfcabcc0ec12a665ebc7') in 0.012243 seconds
+  Import took 0.016735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SinglePlayer.png
+  artifactKey: Guid(cdff4d423768840a68da1323f415ae39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SinglePlayer.png using Guid(cdff4d423768840a68da1323f415ae39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a73b2a73bff132e5b1adda57148aef96') in 0.011672 seconds
+  Import took 0.014232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000238 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyDead.png
+  artifactKey: Guid(41e1dab459c764518bb7df14a984baed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyDead.png using Guid(41e1dab459c764518bb7df14a984baed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d60eb81c37c41c81eec8907f9c2106a') in 0.012174 seconds
+  Import took 0.014714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skull.png
+  artifactKey: Guid(450e0fb9d04cc4ad6b5ee0226f3e1ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skull.png using Guid(450e0fb9d04cc4ad6b5ee0226f3e1ea2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca6cf4bbfe6ddf2dac0aa83ee0cb728e') in 0.012916 seconds
+  Import took 0.015486 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000234 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sliders.png
+  artifactKey: Guid(414c0e0f68a8a4c988e7c8f46cb8c73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sliders.png using Guid(414c0e0f68a8a4c988e7c8f46cb8c73c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd10d084f81d23d340928c29de8feaca8') in 0.011975 seconds
+  Import took 0.014490 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skip.png
+  artifactKey: Guid(29d9397f3cbeb4e9daeb92cb64f06d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Skip.png using Guid(29d9397f3cbeb4e9daeb92cb64f06d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d9659486eb576b0f2749564271ea81e') in 0.013949 seconds
+  Import took 0.016457 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Shuffle.png
+  artifactKey: Guid(1188ef83168d74301a665144c5c45882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Shuffle.png using Guid(1188ef83168d74301a665144c5c45882) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6083c4cf2ecf6af3d6cb4333a2bf2ab2') in 0.011493 seconds
+  Import took 0.014254 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Share.png
+  artifactKey: Guid(a6a50a73746c64cc7a0f7dad33c33465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Share.png using Guid(a6a50a73746c64cc7a0f7dad33c33465) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b60bd6467e9ba947fb3b0833284d5832') in 0.023366 seconds
+  Import took 0.026418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000304 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SkipBack.png
+  artifactKey: Guid(0e3875234c5954b6f9954c5d2eb1c64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SkipBack.png using Guid(0e3875234c5954b6f9954c5d2eb1c64c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4c514fb4877032b057d5d5593127088a') in 0.019005 seconds
+  Import took 0.022881 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000222 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sleep.png
+  artifactKey: Guid(1db8125b589004385b0a61e2935fcbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sleep.png using Guid(1db8125b589004385b0a61e2935fcbbf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '159a4f5eb0a0ca18cfe9b4f68020a69a') in 0.027071 seconds
+  Import took 0.031339 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ShoppingCart.png
+  artifactKey: Guid(a9a07259885f345a3b7122b4a822d6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ShoppingCart.png using Guid(a9a07259885f345a3b7122b4a822d6db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf04243318c4e348de9b0872961c99bc') in 0.021406 seconds
+  Import took 0.025420 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.226073 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyHappy.png
+  artifactKey: Guid(0847850ae17ff4ba2bcfcbd337da4f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyHappy.png using Guid(0847850ae17ff4ba2bcfcbd337da4f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '85a785c16cdb07b71a215bdc6f16c444') in 0.012217 seconds
+  Import took 0.017389 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyLaughing.png
+  artifactKey: Guid(d1018210abbd3468cbde3a19aed12fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyLaughing.png using Guid(d1018210abbd3468cbde3a19aed12fba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '264bb9d0396877f7cc6784d3ec696486') in 0.014420 seconds
+  Import took 0.017340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyUnhappy.png
+  artifactKey: Guid(f2643421932a441f294d812ebfcf924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyUnhappy.png using Guid(f2643421932a441f294d812ebfcf924f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4dd0215392ac40e2aa9ee71735d5a6f1') in 0.020868 seconds
+  Import took 0.025114 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000323 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOn.png
+  artifactKey: Guid(7db0a4c4352f94ef7912e72af584e793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOn.png using Guid(7db0a4c4352f94ef7912e72af584e793) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8cbe51a90608925bf6288c28bdc620') in 0.015653 seconds
+  Import took 0.019284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000291 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter1.png
+  artifactKey: Guid(17c1ea275efa1420ba4a925029c4a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter1.png using Guid(17c1ea275efa1420ba4a925029c4a021) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91355dc8e06df12043f9bae0bf50a667') in 0.021423 seconds
+  Import took 0.025238 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter2.png
+  artifactKey: Guid(4d9dc85fcbf9946fdb6d19d1fca7f9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialTwitter2.png using Guid(4d9dc85fcbf9946fdb6d19d1fca7f9c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '748de1b9590117cb556f632e1f2244b4') in 0.022350 seconds
+  Import took 0.026689 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000169 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyNeutral.png
+  artifactKey: Guid(d586ce8205daa4d2c84ef3553570f087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SmileyNeutral.png using Guid(d586ce8205daa4d2c84ef3553570f087) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '276c0e9bd45eeb0a57d5d3996eaf1275') in 0.020752 seconds
+  Import took 0.024449 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialYoutube.png
+  artifactKey: Guid(f3c525ea09e8e4eab85d4453fb6958a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialYoutube.png using Guid(f3c525ea09e8e4eab85d4453fb6958a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7920f9ad32f1ce313721292a6fbefc95') in 0.022690 seconds
+  Import took 0.026757 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialInstagram.png
+  artifactKey: Guid(8c7dfc8bf7b8f489a9b4cb878269cbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialInstagram.png using Guid(8c7dfc8bf7b8f489a9b4cb878269cbc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8d172859ad6fe8fcbec289d300f875a') in 0.020315 seconds
+  Import took 0.025340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOff.png
+  artifactKey: Guid(c1439c82ab3d143d0a37dbf58bec5491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SoundOff.png using Guid(c1439c82ab3d143d0a37dbf58bec5491) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ef2b65a4874cf9e39d9a0c31a26829b3') in 0.020017 seconds
+  Import took 0.023616 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialFacebook.png
+  artifactKey: Guid(3f91cfe620296424cba5aa18b1680ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_SocialFacebook.png using Guid(3f91cfe620296424cba5aa18b1680ab3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e89894568f99d1a34246659be08703a') in 0.026711 seconds
+  Import took 0.030920 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.104546 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Star.png
+  artifactKey: Guid(d365619b52a6d4dafa5f0c5b0eb74f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Star.png using Guid(d365619b52a6d4dafa5f0c5b0eb74f99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f7bc9dec66f6111614254fccb308d5') in 0.011504 seconds
+  Import took 0.017049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stop.png
+  artifactKey: Guid(98c97713bc58246d382975939d863c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stop.png using Guid(98c97713bc58246d382975939d863c4b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd4d7931252f17997819f084035dbba4d') in 0.011654 seconds
+  Import took 0.014338 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Text.png
+  artifactKey: Guid(0782981ddb2ab492db7af5b2c2b2a290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Text.png using Guid(0782981ddb2ab492db7af5b2c2b2a290) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '512d71f97d773a1ecca6ff0aaf9fbc00') in 0.011072 seconds
+  Import took 0.013650 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TogglePrevious.png
+  artifactKey: Guid(e29e398c6bfa34294a3c94667db60d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TogglePrevious.png using Guid(e29e398c6bfa34294a3c94667db60d53) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b0afd82ec8560eb50c504b76330ffab') in 0.011595 seconds
+  Import took 0.014100 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000263 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stopwatch.png
+  artifactKey: Guid(6d7fb080a242144fead8f1a24d60f188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stopwatch.png using Guid(6d7fb080a242144fead8f1a24d60f188) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '45622e75095008a5df72891e1996678b') in 0.011859 seconds
+  Import took 0.014373 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stats.png
+  artifactKey: Guid(20961f65edf6f4660b808c3997a121b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Stats.png using Guid(20961f65edf6f4660b808c3997a121b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '910292ad5b33c74307b42d0b31dd903c') in 0.011689 seconds
+  Import took 0.014200 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Swap.png
+  artifactKey: Guid(49b3750e931e64df6b56c901630c1214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Swap.png using Guid(49b3750e931e64df6b56c901630c1214) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0389a3ef0e5fa9ba2f2c8cac9d0aac9') in 0.010908 seconds
+  Import took 0.013484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_StarEmpty.png
+  artifactKey: Guid(095ba5de41f8b4ff1b1d19c2df4ed0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_StarEmpty.png using Guid(095ba5de41f8b4ff1b1d19c2df4ed0e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88a0e601b9bc78bf72403a8eda3bb672') in 0.017494 seconds
+  Import took 0.020776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000301 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Target.png
+  artifactKey: Guid(87f376a736cea4550ad1466f64a2f432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Target.png using Guid(87f376a736cea4550ad1466f64a2f432) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '197129511e0696eee900006ad672a8a9') in 0.021510 seconds
+  Import took 0.027496 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sun.png
+  artifactKey: Guid(6ddbc057b8fff42f980de482874af88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Sun.png using Guid(6ddbc057b8fff42f980de482874af88c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c29867ebdcbc41f18bc0749df45dbf71') in 0.021124 seconds
+  Import took 0.024417 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000344 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleNext.png
+  artifactKey: Guid(764e71b9fb848490b818ec151f6828d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ToggleNext.png using Guid(764e71b9fb848490b818ec151f6828d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2502e58b73e5979eadfc5e1309dc7af0') in 0.022575 seconds
+  Import took 0.027193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.286944 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Trophy.png
+  artifactKey: Guid(75b7b72a760384741a5ae2502e120f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Trophy.png using Guid(75b7b72a760384741a5ae2502e120f33) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a887fe51ed1629cf6a000f69fec833') in 0.012902 seconds
+  Import took 0.016930 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Water.png
+  artifactKey: Guid(13bcbf5c51749461585b2fe7f96e77f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Water.png using Guid(13bcbf5c51749461585b2fe7f96e77f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aeef93a39552cd2e91f8ccacc3fe849a') in 0.011553 seconds
+  Import took 0.014084 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wifi.png
+  artifactKey: Guid(3d489d811b5d54f3aae787a7f4b9c184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wifi.png using Guid(3d489d811b5d54f3aae787a7f4b9c184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c698a56e13ca5c7f20358c250b42c97') in 0.012614 seconds
+  Import took 0.015123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wrench.png
+  artifactKey: Guid(ba568f3d8b16348b39eb73863764b6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Wrench.png using Guid(ba568f3d8b16348b39eb73863764b6e4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fbc3b0e107bb0186daaa938bcc8daa2') in 0.011097 seconds
+  Import took 0.013600 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_WifiProblem.png
+  artifactKey: Guid(93662905ea39f4590b5fe31ce1c09068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_WifiProblem.png using Guid(93662905ea39f4590b5fe31ce1c09068) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe4a9c53ca05addb5af3b3e1277cb9a9') in 0.011747 seconds
+  Import took 0.014232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Warning.png
+  artifactKey: Guid(29c015137e4974586a5e5ac823501657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Warning.png using Guid(29c015137e4974586a5e5ac823501657) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b18bbf166b501e5cafdd634c262e1b9') in 0.011069 seconds
+  Import took 0.013591 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnLeft.png
+  artifactKey: Guid(88861aff7ce224fbb87f6ff59459a6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnLeft.png using Guid(88861aff7ce224fbb87f6ff59459a6e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'abe15f54b422b311304eefe209f3fd50') in 0.011900 seconds
+  Import took 0.014544 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Visible.png
+  artifactKey: Guid(080b2d56cf6e64254b53bc9d7f9a9659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Visible.png using Guid(080b2d56cf6e64254b53bc9d7f9a9659) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a8eea4c054eddbefc316f73611bd789') in 0.015906 seconds
+  Import took 0.020103 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000245 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Versus.png
+  artifactKey: Guid(cde26d34f953b4122bd277d3be2ae0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_Versus.png using Guid(cde26d34f953b4122bd277d3be2ae0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba72699927609c5e1661f26254e2e4dd') in 0.024960 seconds
+  Import took 0.029870 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnRight.png
+  artifactKey: Guid(5733a0c62d35a424c935b3e7323c26f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnRight.png using Guid(5733a0c62d35a424c935b3e7323c26f8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46beb600801402a810ffe431350f6cce') in 0.022773 seconds
+  Import took 0.027617 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnAround.png
+  artifactKey: Guid(27400ccb2f7ec4b4a88e2a0c8c080b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_TurnAround.png using Guid(27400ccb2f7ec4b4a88e2a0c8c080b95) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c65935d26ef3101109d833b3cfea7cb') in 0.019142 seconds
+  Import took 0.022838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.294958 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomIn.png
+  artifactKey: Guid(2fd9af2e3c38b42c5893657bc6e7c817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomIn.png using Guid(2fd9af2e3c38b42c5893657bc6e7c817) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a436c3ac3cacde31d19f22d0e681ea44') in 0.012622 seconds
+  Import took 0.017685 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000274 seconds.
+  path: Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomOut.png
+  artifactKey: Guid(28d5c0ad3155d4e329a6cd34bca25eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Simple Vector Icons/128px/UI_Icon_ZoomOut.png using Guid(28d5c0ad3155d4e329a6cd34bca25eef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5bb5e275bbb6a0fab04cb62e4762745') in 0.013459 seconds
+  Import took 0.016568 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 103.302802 seconds.
+  path: Assets/Simple UI/Samples
+  artifactKey: Guid(545a81edb125e445dbd07981789defce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Samples using Guid(545a81edb125e445dbd07981789defce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ab4a85e65eb6f83e429eddb09ab5e6') in 0.008782 seconds
+  Import took 0.012521 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Simple UI/Samples
+  artifactKey: Guid(545a81edb125e445dbd07981789defce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Simple UI/Samples using Guid(545a81edb125e445dbd07981789defce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ab4a85e65eb6f83e429eddb09ab5e6') in 0.003022 seconds
+  Import took 0.007998 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
